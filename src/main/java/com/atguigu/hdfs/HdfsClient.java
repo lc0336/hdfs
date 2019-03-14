@@ -17,6 +17,8 @@ public class HdfsClient {
 	
 	public static void main(String[] args) throws Exception {
 		
+		
+		
 		// 1 获取文件系统
 		Configuration configuration = new Configuration();
 		// 配置在集群上运行
